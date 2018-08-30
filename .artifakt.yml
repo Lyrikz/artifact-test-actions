@@ -1,0 +1,45 @@
+title: Test artifact for actions
+description: cf title
+cloud_provider: aws
+build_engine: terraform
+available_regions:
+ - ap-south-1
+ - eu-west-3
+ - eu-west-2
+ - eu-west-1
+ - ap-northeast-2
+ - ap-northeast-1
+ - sa-east-1
+ - ca-central-1
+ - ap-southeast-1
+ - ap-southeast-2
+ - eu-central-1
+ - us-east-1
+ - us-east-2
+ - us-west-1
+ - us-west-2 
+image: https://assets.artifakt.io/artifacts/quickstart-artifact.png
+category: other
+main_language: html_css
+license:
+   code: mit
+   name: MIT
+tags:
+ - AWS
+ - staticwebsite
+ - upload
+infrastructure:
+  diagram: https://assets.artifakt.io/artifacts/staticwebsite-aws-terraform.png
+  build_time: 15 #in seconds 
+  cost_estimation:
+    monthly_price: 0.02  #in dollars per month 
+    details:  calculated for 1G on standard S3 storage in Francfort
+
+actions:
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
