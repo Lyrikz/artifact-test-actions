@@ -43,3 +43,2481 @@ actions:
     category: application
     engine: bash
     script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+  - 
+    name: Deploy
+    code: deploy
+    description: Deploy the code
+    category: application
+    engine: bash
+    script: deploy.sh
+
+inputs:
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+  -
+    code: bucket_name
+    name: bucket Name
+    description: bucket name must be unique in AWS 
+    category: data
+    type: text
+    default: mymario
+    required:  true
+
+outputs:
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+  -
+    code: hello
+    name: olleh
+    
