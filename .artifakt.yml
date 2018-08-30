@@ -37,6 +37,9 @@ infrastructure:
 
 actions:
   - 
-    code: "deploy&&&-0àà)"
+    name: Deploy
+    code: deploy
     description: Deploy the code
-    engine: node
+    category: application
+    engine: bash
+    script: deploy.sh
